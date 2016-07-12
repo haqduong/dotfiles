@@ -51,6 +51,7 @@ call vundle#begin()
 
 Plugin 'scrooloose/nerdtree'
 Plugin 'Solarized'
+Plugin 'vim-flake8'
 
 call vundle#end()            " required
 filetype off
